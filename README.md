@@ -10,6 +10,9 @@ python 3.11
 docker
 docker-compose
 
+## やること
+- トークンを環境変数に登録
+
 ## directory structure
     ```
     /switchBotAPI
